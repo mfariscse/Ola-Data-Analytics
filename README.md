@@ -23,19 +23,22 @@ It combines **SQL analysis** and **Power BI visualization** to build a complete 
 ## 📈 Key Insights
 
 ✨ **Dashboard Features:**
-- Total Bookings, Revenue & Average Fare KPIs  
+- Ride Volume over Time  
 - Cancellation analysis (by driver & customer)  
-- Booking trends by date, time, and city  
+- Booking Status Breakdown
 - Payment mode and ride type breakdowns  
 - Interactive filters for dynamic exploration  
 
 💡 **SQL Analysis:**
 - Queries written to identify:
-  - Most frequently canceled routes  
-  - Peak booking hours  
-  - Top performing cities  
-  - Customer vs. Driver cancellation ratios  
-  - Average fare per ride type  
+  - All Incomplete Rides  
+  - All Rides-UPI  
+  - All Successful Bookings  
+  - Average customers Ratings per Vehicle 
+  - Cancelled Rides By Customers
+  - Rides Cancelled by drivers-personal and car related issues
+  - Top 5 Customers- Highest rides
+  - Total Booking Value Of Rides 
 
 ---
 
